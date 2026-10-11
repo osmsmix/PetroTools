@@ -175,9 +175,14 @@ for iOS and Android.
 **Available for freelance work.** I build polished Flutter apps from idea to App Store / Play Store
 — including UI/UX, custom branding, and release.
 
-- 💼 Upwork: _add your profile link here_
-- 📧 Email: oussama.mohamedelhadi@gmail.com
-- 🐙 GitHub: [@osmsmix](https://github.com/osmsmix)
+<div align="center">
+
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01825ff64c8093996f)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Order%20now-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Vrrklkz)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussama.mohamedelhadi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@osmsmix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osmsmix)
+
+</div>
 
 ---
 
